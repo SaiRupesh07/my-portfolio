@@ -267,7 +267,7 @@ function Hero(){
 /* ── About ── */
 function About(){
   const cards=[
-    {emoji:"🎓",color:"blue",  label:"Graduation",value:"2025"},
+    {emoji:"🎓",color:"blue",  label:"Graduation",value:"2026"},
     {emoji:"🏛️",color:"purple",label:"University", value:"NIT Patna"},
     {emoji:"📍",color:"orange",label:"Location",   value:"Rayachoti, Andhra Pradesh"},
     {emoji:"💼",color:"green", label:"Status",     value:"Open to Work"},

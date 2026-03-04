@@ -4,7 +4,6 @@
 
 <div align="center">
 
-### ✨ Live Demo → [my-portfolio-orcin-omega.vercel.app](https://my-portfolio-orcin-omega.vercel.app)
 
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)

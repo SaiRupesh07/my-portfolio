@@ -269,7 +269,7 @@ function About(){
   const cards=[
     {emoji:"🎓",color:"blue",  label:"Graduation",value:"2025"},
     {emoji:"🏛️",color:"purple",label:"University", value:"NIT Patna"},
-    {emoji:"📍",color:"orange",label:"Location",   value:"Hyderabad, India"},
+    {emoji:"📍",color:"orange",label:"Location",   value:"Rayachoti, Andhra Pradesh"},
     {emoji:"💼",color:"green", label:"Status",     value:"Open to Work"},
   ];
   const seeking=["Software Development Engineer (SDE)","Backend Engineer","Full Stack Developer","AI/ML Engineer"];

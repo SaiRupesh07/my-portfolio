@@ -364,7 +364,7 @@ function Projects(){
       tags:["FastAPI","React","MongoDB","Groq LLM"],
       demoColor:"#3b82f6",
       demoHref:"https://campus-ai-agent-1.vercel.app/",
-      ghHref:"https://github.com/SaiRupesh07",
+      ghHref:"https://github.com/SaiRupesh07/Campus-AI-Agent-1",
     },
     {
       img:"https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&q=80",
@@ -373,7 +373,7 @@ function Projects(){
       tags:["Python","PyTorch","RoBERTa","CLIP","EasyOCR","Playwright"],
       demoColor:"#f97316",
       demoHref:"https://github.com/SaiRupesh07",
-      ghHref:"https://github.com/SaiRupesh07",
+      ghHref:"https://github.com/SaiRupesh07/Multimodal-Phishing-Detection-using-Gen-AI",
     },
     {
       img:"https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
@@ -382,7 +382,7 @@ function Projects(){
       tags:["Python","Hugging Face","Scikit-learn","Gradio"],
       demoColor:"#10b981",
       demoHref:"https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection",
-      ghHref:"https://github.com/SaiRupesh07",
+      ghHref:"https://github.com/SaiRupesh07/Rumornet-fake-detection",
     },
   ];
   return(
@@ -484,7 +484,7 @@ function Achievements(){
       <h3 style={{textAlign:"center",color:"#fff",fontWeight:700,fontSize:22,marginBottom:28}}>Coding Profile</h3>
       <div style={{display:"grid",gridTemplateColumns:"repeat(2,1fr)",gap:16,maxWidth:820,margin:"0 auto"}}>
         {[
-          {emoji:"💡",color:"orange",name:"LeetCode",sub:"300+ Problems",href:"https://leetcode.com/u/sairupeshdevarinti/"},
+          {emoji:"💡",color:"orange",name:"LeetCode",sub:"500+ Problems",href:"https://leetcode.com/u/sairupeshdevarinti/"},
           {emoji:"🐙",color:"cyan",  name:"GitHub",  sub:"50+ Repositories",href:"https://github.com/SaiRupesh07"},
         ].map(c=>(
           <RippleBtn key={c.name} href={c.href} target="_blank" rel="noreferrer" style={{
@@ -515,9 +515,9 @@ function Contact(){
   const [sent,setSent]=useState(false);
   const links=[
     {emoji:"✉️",color:"blue",  label:"Email",   value:"devarintisairupesh@gmail.com",href:"mailto:devarintisairupesh@gmail.com"},
-    {emoji:"💼",color:"blue",  label:"LinkedIn",value:"@sai-rupesh-devarinti",       href:"https://www.linkedin.com/in/sai-rupesh-devarinti/"},
-    {emoji:"🐙",color:"purple",label:"GitHub",  value:"@SaiRupesh07",               href:"https://github.com/SaiRupesh07"},
-    {emoji:"💡",color:"cyan",  label:"LeetCode",value:"@sairupeshdevarinti",        href:"https://leetcode.com/u/sairupeshdevarinti/"},
+    {emoji:"💼",color:"blue",  label:"LinkedIn",value:"@sai-rupesh-devarinti",href:"https://www.linkedin.com/in/sai-rupesh-devarinti/"},
+    {emoji:"🐙",color:"purple",label:"GitHub",  value:"@SaiRupesh07",href:"https://github.com/SaiRupesh07"},
+    {emoji:"💡",color:"cyan",  label:"LeetCode",value:"@sairupeshdevarinti",href:"https://leetcode.com/u/sairupeshdevarinti/"},
   ];
   return(
     <section id="contact" style={{padding:"7rem 4vw",maxWidth:1200,margin:"0 auto"}}>

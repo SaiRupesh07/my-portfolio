@@ -358,6 +358,15 @@ function Skills(){
 function Projects(){
   const projects=[
     {
+     img:"https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+    title:"InterviewForge.AI – AI Mock Interview Platform",
+    desc:"Production-ready AI-powered mock interview platform enabling resume-based question generation, real-time answer evaluation, and structured feedback analytics using LLM APIs with a scalable MERN architecture.",
+    tags:["React.js","Node.js","Express.js","MongoDB","LLM APIs","Firebase","Razorpay"],
+   demoColor:"#22c55e",
+   demoHref:"https://ai-interview-agent-1-client.onrender.com/", // 🔁 replace with your deployed link
+   ghHref:"https://github.com/SaiRupesh07/InterviewForge.AI",
+   },
+    {
       img:"https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=600&q=80",
       title:"Campus AI Agent",
       desc:"Full-stack AI-powered campus assistant capable of answering natural language queries about campus facilities, events, and bookings using LLM-based intent routing.",
